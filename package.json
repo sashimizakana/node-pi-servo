@@ -1,8 +1,8 @@
 {
-  "name": "pib-servo",
-  "version": "1.0.0",
+  "name": "pi-servo",
+  "version": "1.0.1",
   "description": "A Node.js libraly for controlling servo motor using the pi-blaster",
-  "main": "lib/pib-servo.js",
+  "main": "lib/pi-servo.js",
   "scripts": {
     "build": "babel src/ --out-dir lib/ --presets es2015"
   },

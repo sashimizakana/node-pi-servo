@@ -9,13 +9,13 @@ A Node.js libraly for controlling servo motor using the pi-blaster.
 ## Installation
 
 ```bash
-npm install pib-servo
+npm install pi-servo
 ```
 
 ## Usage
 
 ```node
-var PiServo = require('PiServo');
+var PiServo = require('pi-servo');
 
 // pass the GPIO number
 var sv1 = new PiServo(4); 
