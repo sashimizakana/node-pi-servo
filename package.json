@@ -1,12 +1,16 @@
 {
   "name": "pi-servo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js libraly for controlling servo motor using the pi-blaster",
   "main": "lib/pi-servo.js",
   "scripts": {
     "build": "babel src/ --out-dir lib/ --presets es2015"
   },
-  "keywords": ["Raspberry Pi","pi-blaster","Servo motor"],
+  "keywords": [
+    "Raspberry Pi",
+    "pi-blaster",
+    "Servo motor"
+  ],
   "author": "sashimizakana",
   "license": "MIT",
   "devDependencies": {
@@ -16,8 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sashimizakana/node-pi-servo"
-  }
-  ,"files": [
+  },
+  "files": [
     "lib"
   ]
 }
