@@ -1,5 +1,7 @@
 # node-pi-servo
 
+[![npm version](https://badge.fury.io/js/pi-servo.svg)](http://badge.fury.io/js/pi-servo)
+
 A Node.js libraly for controlling servo motor using the pi-blaster.
 
 ## Requirements
